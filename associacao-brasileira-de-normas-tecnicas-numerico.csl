@@ -127,6 +127,7 @@ aparecera a expess o 'et. al.'. Na regra da ABNT essa expressao deve aparecer em
         <name-part name="family" text-case="uppercase"/>
         <name-part name="given" text-case="uppercase"/>
       </name>
+      <et-al font-style="italic"/>
       <label form="short" prefix=" (" suffix=".)" text-case="uppercase"/>
       <substitute>
         <names variable="editor"/>
